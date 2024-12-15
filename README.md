@@ -14,7 +14,7 @@ To set up the project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<your-github-username>/portfolio.git
+   git clone https://github.com/minamrahman727/portfolio.git
    cd portfolio
    ```
 
